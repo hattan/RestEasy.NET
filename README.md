@@ -13,3 +13,4 @@ A simple client for fetching data from an api and de-serializing it easily.
         }
         
 ```
+Note: In order to use RestEasy.NET you have to create the models based on the results of the api endpoint. In visual studio can do this easily by copying the json/xml result and choosing "paste special" follwed by the kind of data you want to generate classes for.
